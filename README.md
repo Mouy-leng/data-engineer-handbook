@@ -152,7 +152,9 @@ Here's the mostly comprehensive list of data engineering creators:
 **(You have to have at least 5k followers somewhere to be added!)**
 
 
-#### YouTube 
+<details>
+<summary>YouTube</summary>
+
 | Name                        | YouTube Channel                                                                                         | Follower Count |
 |----------------------------|---------------------------------------------------------------------------------------------------------|---------------:|
 | ByteByteGo                 | [ByteByteGo](https://www.youtube.com/c/ByteByteGo)                                             | 1,000,000+     |
@@ -185,8 +187,11 @@ Here's the mostly comprehensive list of data engineering creators:
 | John Kutay                 | [John Kutay](https://www.youtube.com/@striiminc) | N/A           |
 | Emil Kaminski              | [Databricks For Professionals](https://www.youtube.com/@DatabricksPro)                           | 5,000+          |
 
+</details>
 
-#### LinkedIn
+
+<details>
+<summary>LinkedIn</summary>
 
 | Name                      | LinkedIn Profile                                                                                         | Follower Count |
 |--------------------------|----------------------------------------------------------------------------------------------------------|---------------:|
@@ -237,8 +242,11 @@ Here's the mostly comprehensive list of data engineering creators:
 | Hassaan                    | [Hassaan](https://www.linkedin.com/in/shassaan/)                                                        | 5000+           |
 | Javier de la Torre             | [Javier](www.linkedin.com/in/javier-de-la-torre-medina)                                                        | 5000+           |
 
+</details>
 
-#### X/Twitter
+
+<details>
+<summary>X/Twitter</summary>
 
 | Name              | X/Twitter Profile                                                 | Follower Count |
 |-------------------|------------------------------------------------------------------|---------------:|
@@ -252,8 +260,11 @@ Here's the mostly comprehensive list of data engineering creators:
 | John Kutay        | [@JohnKutay](https://x.com/JohnKutay)                            | N/A           |
 | Mehdi Ouazza      | [mehd_io](https://x.com/mehd_io)                                 | N/A           |
 
+</details>
 
-#### Instagram
+
+<details>
+<summary>Instagram</summary>
 
 | Name           | Instagram Profile                                                                   | Follower Count |
 |----------------|--------------------------------------------------------------------------------------|---------------:|
@@ -262,13 +273,18 @@ Here's the mostly comprehensive list of data engineering creators:
 | Andreas Kretz  | [learndataengineering](https://www.instagram.com/learndataengineering)          | 5,000+         |
 | Alex Merced    | [@alexmercedcoder](https://www.instagram.com/alexmercedcoder)                       | N/A           |
 
-#### TikTok
+</details>
+
+<details>
+<summary>TikTok</summary>
 
 | Name            | TikTok Profile                                                                   | Follower Count |
 |-----------------|----------------------------------------------------------------------------------|---------------:|
 | Zach Wilson     | [@eczachly](https://www.tiktok.com/@eczachly)                            | 70,000+        |
 | Alex Freberg    | [@alex_the_analyst](https://www.tiktok.com/@alex_the_analyst)             | 10,000+        |
 | Mehdi Ouazza    | [@mehdio_datatv](https://www.tiktok.com/@mehdio_datatv)                          | N/A           |
+
+</details>
 
 
 ### Great Podcasts
